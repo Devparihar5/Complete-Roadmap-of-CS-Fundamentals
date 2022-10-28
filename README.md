@@ -111,6 +111,52 @@ Link : https://git-scm.com/downloads
 - ![photo1642068212](https://user-images.githubusercontent.com/65703138/149309477-95d3fd7a-68a1-4153-b59a-963c9c190752.jpeg)
 
 
+# OOPS_NOTES
+Notes of OOPS (in c++)
+
+- OOPS :
+  - https://www.youtube.com/watch?v=bSrm9RXwBaI&ab_channel=ApnaCollege (JAVA)<br>
+  - https://www.youtube.com/watch?v=wN0x9eZLix4&ab_channel=freeCodeCamp.org (C++)<br>
+  - https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko (PYTHON)
+          
+
+- PDF(of notes): https://drive.google.com/file/d/1NXtNY5zQXIUMLcBan-_MpuGN_gnZKTMh/view?usp=sharing
+
+- OOPS Interview Questions: https://www.interviewbit.com/oops-interview-questions/
+
+
+# Operating_System
+
+Resources , Notes , Videos of Operating System
+
+- Source : https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p (Gate Smashers) 
+   https://www.youtube.com/playlist?list=PLG9aCp4uE-s17rFjWM8KchGlffXgOzzVP (Unacademy)
+
+- PDF(of notes): https://drive.google.com/file/d/1Qpc_gzY-M0mCLU9Nm6rZdycOkqvHBYPD/view?usp=sharing
+
+- Top Interview questions : https://www.interviewbit.com/operating-system-interview-questions/
+
+# Programming_with_C_and_C++
+Notes on "Programming with C and C++"
+
+- Source : https://www.youtube.com/playlist?list=PLLYz8uHU480j37APNXBdPz7YzAi4XlQUF (Saurabh Shukla) 
+ https://www.youtube.com/playlist?list=PLu0W_9lII9agpFUAlPFe_VNSlXW5uE0YL (code with harry)
+
+- PDF(of notes): https://drive.google.com/file/d/1IDmh-zqbJp4NO3_VLwdb2-nHO8eDvY6e/view?usp=sharing
+
+
+-Cheatsheet : [C_Cheat.pdf](https://github.com/riti2409/Programming_with_C_and_Cplus-plus/files/7980816/C_Cheat.pdf)
+
+
+# Web_Development
+Materials related to Web_Development
+
+- Source : https://www.youtube.com/playlist?list=PLu0W_9lII9agiCUZYRsvtGTXdxkzPyItg (code with harry)
+
+- React = https://www.youtube.com/playlist?list=PLu0W_9lII9agx66oZnT6IyhcMIbUMNMdt
+
+- PDF: https://drive.google.com/file/d/1PDqyP3NiGf4hwOU2B2NMRaZ8NEsiYn8r/view?usp=sharing
+
 
 
 Would love if you could add more resources :)
